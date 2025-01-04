@@ -7,7 +7,6 @@ This project implements a Service Worker to create a Progressive Web Application
 - HTML5
 - CSS3
 - JavaScript
-- JSON
 
 ## Autors
 
